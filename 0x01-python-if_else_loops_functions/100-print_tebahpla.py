@@ -10,4 +10,4 @@ for i in range(97, 123):
     else:
         z = i - n
         n = n + 4
-    print(chr(z), end='')
+    print("{}".format(chr(z)), end='')
