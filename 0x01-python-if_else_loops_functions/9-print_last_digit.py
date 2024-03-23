@@ -1,4 +1,4 @@
-#!/usr/bin/python#
+#!/usr/bin/python3
 """
 print_last_digit: function that prints the last digit of a number
 
