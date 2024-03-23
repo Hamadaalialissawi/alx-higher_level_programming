@@ -10,8 +10,6 @@ def fizzbuzz():
             print("Fizz ", end='')
         elif i % 5 == 0 and i % 3 != 0:
             if i == 100:
-                print("Buzz", end='')
-            else:
                 print("Buzz ", end='')
         elif i % 5 == 0 and i % 3 == 0:
             print("FizzBuzz ", end='')
