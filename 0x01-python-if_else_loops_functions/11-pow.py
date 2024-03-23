@@ -9,5 +9,5 @@ Return: sum of a**b
 
 
 def pow(a, b):
-    sum = a** b
+    sum = a ** b
     return sum
